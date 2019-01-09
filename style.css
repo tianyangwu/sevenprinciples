@@ -1,0 +1,17 @@
+
+
+html{
+  font-family: 'Thasadith', sans-serif;
+}
+h1{
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+p {
+  font-family: 'Thasadith', sans-serif;
+}
+.box {
+  width:80vw;
+  height:1vh;
+  background-color: red;
+  box-sizing: border-box;
+}
